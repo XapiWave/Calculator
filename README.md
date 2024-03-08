@@ -7,4 +7,4 @@ It only has 4 functions:  +, -, *, /.
 This calculator is written in C.
 
 ---------------------------------------------------------
-Made by: Xapi Wave 
+Made by:  Xapi Wave 
