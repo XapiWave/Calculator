@@ -151,7 +151,7 @@ void BC()	// Limiter
 {
     if (d>999999999999999 || d<-999999999999999)
     {
-	printf ("[ ERRO ] Your result is too big for the calculator!");
+	printf ("[ ERROR ] Your result is too big for the calculator!");
 	g = 1;
 	}
 }
