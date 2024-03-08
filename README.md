@@ -8,4 +8,4 @@ This calculator is written in C.
 
 ---------------------------------------------------------
 Made by: Xapi Wave 
-  :D
+:D
